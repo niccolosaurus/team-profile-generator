@@ -25,6 +25,8 @@ You will need Node.js, and then once you have it running you will need to npm in
 ### Usage
 ![Team-Profile-Generator](./assets/Team-Profile-Generator.gif)
 
+https://bit.ly/3Jx5X1Y
+
 ### License
 MIT
 https://choosealicense.com/licenses/mit/
@@ -42,6 +44,6 @@ Copyright (c) [2022] [Niccolo Eck]
 
 
 ### Questions
-[Github Profie](https://github.com/niccolosaurus)
+[Github Profie](https://github.com/niccolosaurus)</br>
 nicco.eck@gmail.com
 
